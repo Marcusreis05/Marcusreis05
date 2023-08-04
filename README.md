@@ -6,7 +6,7 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/reissx/)
 [![Epic](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/pt-BR/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/channels/@me](https://discord.gg/KGwRJMfK))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcusreis05&show_icons=true&theme=synthwave)
 
