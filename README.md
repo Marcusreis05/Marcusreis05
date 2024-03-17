@@ -4,10 +4,8 @@
 [![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1660_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
 [![Intel](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
 
-let alert = alert('teste')
-
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/reissx/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](`${alert}`)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcusreis05@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](*)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcusreis05&show_icons=true&theme=synthwave)
