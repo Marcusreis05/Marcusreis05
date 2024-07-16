@@ -125,6 +125,3 @@
   <hr>
 
 ###
-
-![snake animation](https://github.com/<Marcusreis05>/<Marcusreis05>/blob/output/github-contribution-grid-snake2.svg)
-
