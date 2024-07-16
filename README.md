@@ -47,8 +47,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusReis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark#gh-dark-mode-only" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcusreis05&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcusreis05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark#gh-dark-mode-only" height="180" alt="languages graph"  />
    <hr>
 </div>
 
