@@ -60,7 +60,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.imgur.com/Ea8ZiFK.mp4" alt="Imagem">
+  <img align="center" src="https://animesher.com/orig/0/77/775/7752/animesher.com_your-lie-in-april-nerawareta-gakuen-piano-775208.gif" alt="Imagem">
 </p>
 
 ###
