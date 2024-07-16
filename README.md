@@ -54,7 +54,7 @@
 ###
 
 ## Portfolio:
-  <img align="right" height="50" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+  <img align="right" height="50" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
   
 <div align="left">
   
