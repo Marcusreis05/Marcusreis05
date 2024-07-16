@@ -55,17 +55,17 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+  <img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/325895960-26a48b1f-4716-4b8c-b58a-027f269c8c1f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExNDc5MDUsIm5iZiI6MTcyMTE0NzYwNSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NjAtMjZhNDhiMWYtNDcxNi00YjhjLWI1OGEtMDI3ZjI2OWM4YzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE2VDE2MzMyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmNThlM2E3MTA4MmQyMDFmZDc5NGNjMjUwMDUxMDg0NmUyNWRhMTYwZWUzOTQ5NWRmOTFiNjU4OTJmMzU3NTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Z6XHJJfcnY4ACzBcBMG3bi87NYJ-5HaKTFR-Bq_SaCs" alt="Imagem">
+  
+<div align="left">
+  
 - [Desafio 2 DNC School -> API CEP](https://github.com/Marcusreis05/Desafio-2-Api-DNC?tab=readme-ov-file)
 - [Desafio 4 DNC School -> tasks](https://github.com/Marcusreis05/dnc-react-desafio3)
 - [Desafio 5 DNC School -> Desenvolva uma API](https://github.com/Marcusreis05/Desafio-5/tree/master)
 - [Desafio 1 DNC School -> Landing Page](https://github.com/Marcusreis05/Projeto-DNC-Desafio-1?tab=readme-ov-file)
 - [CCXP Começando a aplicar JavaScript](https://github.com/Marcusreis05/CCXP-DNC?tab=readme-ov-file)
-
-  <p align="right">
-  <img align="right" src="https://private-user-images.githubusercontent.com/74038190/325895960-26a48b1f-4716-4b8c-b58a-027f269c8c1f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExNDc5MDUsIm5iZiI6MTcyMTE0NzYwNSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NjAtMjZhNDhiMWYtNDcxNi00YjhjLWI1OGEtMDI3ZjI2OWM4YzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE2VDE2MzMyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmNThlM2E3MTA4MmQyMDFmZDc5NGNjMjUwMDUxMDg0NmUyNWRhMTYwZWUzOTQ5NWRmOTFiNjU4OTJmMzU3NTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Z6XHJJfcnY4ACzBcBMG3bi87NYJ-5HaKTFR-Bq_SaCs" alt="Imagem">
-
-</p>
-
+  
+</div>
 ###
 
 <br>
