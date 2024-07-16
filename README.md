@@ -47,8 +47,12 @@
 
 
 <div align="center">
+   <hr>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=MarcusReis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark#gh-dark-mode-only" height="180" alt="languages graph"  />
+  <br>
+   <hr>
 </div>
 
 ###
@@ -70,7 +74,11 @@
 
 <!-- GIF -->
 <p align="center">
+   <hr>
+  <br>
   <img align="center" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExNDc5MDUsIm5iZiI6MTcyMTE0NzYwNSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE2VDE2MzMyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlMWZkZmRlMzIzZWU5NDQ5MWM2MzE4ZDIyNjVjMWJlZjMwYjhmM2JlZjRhMjg3MmRhYTFkNmY5ODQwZjU0YmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.uI-iVVvm5Txc7r1UGbtkffElBCwzTPDIk_RJ3UX33_0" alt="Imagem">
+  <br>
+   <hr>
 </p>
 
 ###
@@ -82,8 +90,9 @@
 
 ## ⛩️ Habilidades ⛩️
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
+  <div style="flex-basis: 100%;" align="center">
     <h3>Programming Languages</h3>
+     <hr>
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -92,8 +101,9 @@
   </div>
   
   <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
+  <div style="flex-basis: 100%;" align="center">
     <h3>Tools & Frameworks</h3>
+     <hr>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
     <img align="center" alt="BootsTrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
@@ -101,8 +111,9 @@
   </div>
   
   <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
+  <div style="flex-basis: 100%;" align="center">
     <h3>Libraries</h3>
+     <hr>
     <img align="center" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
     <img align="center" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
     <img align="center" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
