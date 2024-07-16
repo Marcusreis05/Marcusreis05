@@ -32,16 +32,18 @@
 
 <!-- Links -->
 <div align="center">
+  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
   [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/reissx/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-reis-2b01bb275/)
+  
 </div>
 <!-- GithubStats -->
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusReis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark#gh-dark-mode-only" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcusReis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark#gh-dark-mode-only" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -57,8 +59,8 @@
 ###
 
 <!-- GIF -->
-<p>
-  <img align="center" src="https://animesher.com/orig/0/77/775/7752/animesher.com_your-lie-in-april-nerawareta-gakuen-piano-775208.gif" alt="Imagem">
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
 ###
