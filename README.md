@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcusReis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark#gh-dark-mode-only" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark#gh-dark-mode-only" height="190" alt="languages graph"  />
 </div>
 
 ###
@@ -60,7 +60,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://i.imgur.com/Ea8ZiFK.mp4" alt="Imagem">
 </p>
 
 ###
