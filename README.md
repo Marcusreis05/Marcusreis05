@@ -8,7 +8,6 @@
 
 ###
 
-<!-- Presentation -->
 <p>
   - Olá, sou o Marcus, um estudante de tecnologia (Desenvolvedor FullStack).
   
@@ -19,18 +18,17 @@
 
 ###
 
-<!-- Dropdown -->
 <details>
   <summary>Mais sobre mim</summary>
 
   - 🎴 Tenho 19 anos, atualmente moro no Brasil. Tenho experiência com React.js(Next, Vite), SASS, Versionamento Git, Node e atualmente estou aprendendo back-end e inglês.
 
-  - ♨️ Gosto de ler e jogar, seja um bom mangá ou livro, além de jogar Jogos eletrônicos e Futebol! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \O/
+  - ♨️ Gosto de ler bons mangás e livros, além de jogar videogames e futebol. Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para resolver problemas. \O/
+    
 </details>
 
 ###
 
-<!-- Links -->
 <div align="center">
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
@@ -53,9 +51,8 @@
 
 ###
 
-<!-- Portfolio -->
 ## Portfolio:
-  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
   
 <div align="left">
   
@@ -66,6 +63,7 @@
 - [CCXP Começando a aplicar JavaScript](https://github.com/Marcusreis05/CCXP-DNC?tab=readme-ov-file)
   
 </div>
+
 ###
 
 <br>
@@ -122,3 +120,9 @@
   <hr>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
