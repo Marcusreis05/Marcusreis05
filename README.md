@@ -6,6 +6,7 @@
     </summary>
 </div>
 
+<hr>
 ###
 
 <p>
@@ -34,6 +35,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
   [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/reissx/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-reis-2b01bb275/)
+  <br>
   <hr>
 </div>
 
@@ -77,10 +79,10 @@
 
   ###
   
+<br>
 <hr>
 </p>
 
-![snake animation](https://github.com/<Marcusreis05>/<Marcusreis05>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
