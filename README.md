@@ -28,10 +28,12 @@
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div> <br/>
 
 ## 
-"Explorando a sinergia entre design e funcionalidade para criar experiências digitais excepcionais - mergulhando nas profundezas do Front-end e desbravando os desafios do Back-end."
+"Programador recém-formado apaixonado por desenvolvimento front-end com React, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades."
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusreis05&langs_count=8)
 
