@@ -6,6 +6,8 @@
     </summary>
 </div>
 
+###
+
 <!-- Presentation -->
 <p>
   - Olá, sou o Marcus, um estudante de tecnologia (Desenvolvedor FullStack).
@@ -15,6 +17,8 @@
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como Desenvolvedor Full Stack.
 </p>
 
+###
+
 <!-- Dropdown -->
 <details>
   <summary>Mais sobre mim</summary>
@@ -23,6 +27,8 @@
 
   - ♨️ Gosto de ler e jogar, seja um bom mangá ou livro, além de jogar Jogos eletrônicos e Futebol! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \O/
 </details>
+
+###
 
 <!-- Links -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
@@ -47,10 +53,14 @@
 - [Desafio 1 DNC School -> Landing Page](https://github.com/Marcusreis05/Projeto-DNC-Desafio-1?tab=readme-ov-file)
 - [CCXP Começando a aplicar JavaScript](https://github.com/Marcusreis05/CCXP-DNC?tab=readme-ov-file)
 
+###
+
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.gifer.com/L5B0.gif" alt="Imagem">
+  <img align="center" src="https://animesher.com/orig/0/77/775/7752/animesher.com_your-lie-in-april-nerawareta-gakuen-piano-775208.gif" alt="Imagem">
 </p>
+
+###
 
 ## ⛩️ Habilidades ⛩️
 <!-- Skills: Programming Languages -->
@@ -78,7 +88,7 @@
     <img align="center" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
     <img align="center" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
     <img align="center" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-    <img align="center" src="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    <img align="center" src="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="40" height="40"/>
     <img align="center" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
     <img align="center" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
     <img align="center" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
