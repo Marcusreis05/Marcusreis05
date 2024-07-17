@@ -97,7 +97,7 @@
 
 
 ## ⛩️ Habilidades ⛩️
-<!-- Skills: Programming Languages -->
+
   <div style="flex-basis: 48%;">
     <h3>➤ Programming Languages</h3>
     <img align="center" alt="TypeScript" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -106,9 +106,9 @@
     <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-  <hr>
-  
-  <!-- Skills: Tools & Frameworks -->
+
+<br>
+
   <div style="flex-basis: 48%;">
    <h3>➤ Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -116,9 +116,9 @@
     <img align="center" alt="BootsTrap" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
     <img align="center" alt="Node" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </div>
-  <hr>
-  
-  <!-- Skills: Libraries -->
+
+  <br>
+
   <div style="flex-basis: 48%;">
     <h3>➤ Libraries</h3>
     <img align="center" alt="Yarn" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
@@ -129,12 +129,8 @@
     <img align="center" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" height="30"/>
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="40" height="30"/>
   </div>
-  <hr>
-
-###
-
-<br>
-<br>
+  
+  <br>
 
 <div align="center">
 
