@@ -11,11 +11,17 @@
 ###
 
 <h4>
-  ● Olá, meu nome é Marcus, sou um estudante de tecnologia especializado em Desenvolvimento FullStack.
+  
+  ●  Olá, meu nome é Marcus, sou um estudante de tecnologia especializado em Desenvolvimento FullStack.
+  
   <br>
-  ● 👾 Atualmente estou focado no estudo de Bancos de Dados Não Relacionais na DNC.​​ - <img align="center" alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+  ●  👾 Atualmente estou focado no estudo de Bancos de Dados Não Relacionais na DNC.​​ - <img align="center" alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
   <br>
-  ● 🔭 Estou à procura da minha primeira oportunidade de emprego. Meu sonho é trabalhar um dia como Desenvolvedor Full Stack.
+  
+  ●  🔭 Estou à procura da minha primeira oportunidade de emprego. Meu sonho é trabalhar um dia como Desenvolvedor Full Stack.
+  
 </h4>
 
 ###
