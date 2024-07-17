@@ -134,6 +134,6 @@
 
 <div align="center">
 
-  <img align="center" height="30" width="500" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+  <img align="center" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
   
 </div>
