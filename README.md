@@ -16,7 +16,7 @@
   
   <br>
   
-  ●  👾 Atualmente estou focado no estudo de Bancos de Dados Não Relacionais na DNC.​​ - <img align="center" alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  ●  👾 Atualmente estou focado no estudo de Bancos de Dados Não Relacionais na DNC.​​          <img align="center" alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   
   <br>
   
