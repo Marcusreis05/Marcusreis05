@@ -34,11 +34,11 @@ bancos de dados não relacionais e desenvolvimento de aplicações modernas.
 
 <br>
 
-* 🖥️ Desenvolvimento **Full Stack**
-* ⚙️ Foco atual em **Back-end & Bancos de Dados**
-* 🧠 Estudando **MongoDB e arquitetura de aplicações**
-* 🌎 Brasil
-* 🎯 Buscando minha **primeira oportunidade profissional** em tecnologia
+* ♟️ Desenvolvimento **Full Stack**
+* ♟️ Foco atual em **Back-end & Bancos de Dados**
+* ♟️ Estudando **MongoDB e arquitetura de aplicações**
+* ♟️ Brasil
+* ♟️ Buscando minha **primeira oportunidade profissional** em tecnologia
 
 ---
 
@@ -70,11 +70,11 @@ bancos de dados não relacionais e desenvolvimento de aplicações modernas.
 ┌──────────────────────────────────────────────┐
 │                                              │
 │  ▪ Back-end                                  │
-│  ▪ MongoDB / NoSQL                            │
-│  ▪ APIs REST                                  │
-│  ▪ Node.js                                    │
-│  ▪ TypeScript                                 │
-│  ▪ Inglês técnico                             │
+│  ▪ MongoDB / NoSQL                           │
+│  ▪ APIs REST                                 │
+│  ▪ Node.js                                   │
+│  ▪ TypeScript                                │
+│  ▪ Inglês técnico                            │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
@@ -113,17 +113,11 @@ bancos de dados não relacionais e desenvolvimento de aplicações modernas.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Marcusreis05&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="165" width="350" src="https://github-readme-stats.vercel.app/api?username=Marcusreis05&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusreis05&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=6"/>
+<img height="165" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusreis05&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=666666" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusreis05&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=666666" />
+<img height="165" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusreis05&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
 
 </div>
 
@@ -160,9 +154,9 @@ INTERESTS
 
 ## `> Um pouco mais sobre mim`
 
-Tenho 19 anos e moro no Brasil.
+Tenho 21 anos e moro no Brasil.
 
-Fora da programação, gosto de videogames, mangás, livros e futebol.
+Fora da programação, gosto de videogames, livros e futebol.
 
 Acredito que explorar diferentes áreas e interesses também ajuda a desenvolver
 uma visão mais criativa para resolver problemas e construir soluções.
@@ -193,7 +187,7 @@ uma visão mais criativa para resolver problemas e construir soluções.
 
 ```text
 ────────────────────────────────────────────────────────
-                 "Keep building."
+                 
 ────────────────────────────────────────────────────────
 ```
 
