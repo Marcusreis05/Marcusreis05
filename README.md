@@ -1,146 +1,202 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Olá Mundo 👋! Meu nome é Marcus Reis e sou desenvolvedor FullStack.</h1>
-    </summary>
-</div>
-
-<hr>
-
-###
-
-<h4>
-  
-  ●  Olá, meu nome é Marcus, sou um estudante de tecnologia especializado em Desenvolvimento FullStack.
-  
-  <br>
-  
-  ●  👾 Atualmente estou focado no estudo de Bancos de Dados Não Relacionais na DNC.​​          <img align="center" alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  
-  <br>
-  
-  ●  🔭 Estou à procura da minha primeira oportunidade de emprego. Meu sonho é trabalhar um dia como Desenvolvedor Full Stack.
-  
-</h4>
-
-###
-
-<details>
-  <summary>Mais sobre mim</summary>
-
-  - 🎴 Tenho 19 anos, atualmente moro no Brasil. Tenho experiência com React.js(Next, Vite), SASS, Versionamento Git, Node e atualmente estou aprendendo back-end e inglês.
-
-  - ♨️ Gosto de ler bons mangás e livros, além de jogar videogames e futebol. Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para resolver problemas. \O/
-    
-</details>
-
-###
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                    MARCUS REIS · GITHUB                     ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/reissx/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-reis-2b01bb275/)
-  <br>
-  <hr>
+
+# Marcus Reis
+
+### `Full Stack Developer`
+
+`React` · `Next.js` · `Node.js` · `TypeScript` · `MongoDB`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=&fontSize=0" width="100%"/>
+
 </div>
 
-###
+---
+
+## `> Sobre mim`
+
+```text
+Olá! Eu sou Marcus Reis.
+
+Sou desenvolvedor Full Stack em formação, apaixonado por tecnologia,
+desenvolvimento web e pela criação de soluções simples para problemas reais.
+
+Atualmente estou aprofundando meus conhecimentos em Back-end,
+bancos de dados não relacionais e desenvolvimento de aplicações modernas.
+```
 
 <br>
-<br>
-<br>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcusreis05&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcusreis05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark#gh-dark-mode-only" height="170" alt="languages graph"  />
+* 🖥️ Desenvolvimento **Full Stack**
+* ⚙️ Foco atual em **Back-end & Bancos de Dados**
+* 🧠 Estudando **MongoDB e arquitetura de aplicações**
+* 🌎 Brasil
+* 🎯 Buscando minha **primeira oportunidade profissional** em tecnologia
 
-  <br>
-  <br>
-  <br>
-   <hr>
-</div>
+---
 
-###
+## `> Stack`
 
-## Portfolio:
-  <img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
-  
-<div align="left">
-  
-- [Desafio 2 DNC School -> API CEP](https://github.com/Marcusreis05/Desafio-2-Api-DNC?tab=readme-ov-file)
-- [Desafio 4 DNC School -> tasks](https://github.com/Marcusreis05/dnc-react-desafio3)
-- [Desafio 5 DNC School -> Desenvolva uma API](https://github.com/Marcusreis05/Desafio-5/tree/master)
-- [Desafio 1 DNC School -> Landing Page](https://github.com/Marcusreis05/Projeto-DNC-Desafio-1?tab=readme-ov-file)
-- [CCXP Começando a aplicar JavaScript](https://github.com/Marcusreis05/CCXP-DNC?tab=readme-ov-file)
-  
-</div>
+### Front-end
 
-###
-
-<br>
-<br>
-<br>
-
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Imagem">
-
-  ###
-  
-<br>
-<hr>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass" />
 </p>
 
+### Back-end & Database
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
+
+---
+
+## `> Atualmente estudando`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  ▪ Back-end                                  │
+│  ▪ MongoDB / NoSQL                            │
+│  ▪ APIs REST                                  │
+│  ▪ Node.js                                    │
+│  ▪ TypeScript                                 │
+│  ▪ Inglês técnico                             │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## `> Projetos`
+
+| Projeto          | Descrição                                         |
+| :--------------- | :------------------------------------------------ |
+| **API CEP**      | Consumo e integração com API para consulta de CEP |
+| **Tasks**        | Aplicação de gerenciamento de tarefas com React   |
+| **API DNC**      | Desenvolvimento de uma API utilizando Node.js     |
+| **Landing Page** | Projeto de desenvolvimento de interface web       |
+| **CCXP**         | Projeto desenvolvido para prática de JavaScript   |
 
 <br>
-<br>
-<br>
-
-
-## ⛩️ Habilidades ⛩️
-
-  <div style="flex-basis: 48%;">
-    <h3>➤ Programming Languages</h3>
-    <img align="center" alt="TypeScript" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-
-<br>
-
-  <div style="flex-basis: 48%;">
-   <h3>➤ Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Express" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-    <img align="center" alt="BootsTrap" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-    <img align="center" alt="Node" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </div>
-
-  <br>
-
-  <div style="flex-basis: 48%;">
-    <h3>➤ Libraries</h3>
-    <img align="center" alt="Yarn" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
-    <img align="center" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="20" height="30"/>
-    <img align="center" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20" height="30"/>
-    <img align="center" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="30"/>
-    <img align="center" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="30"/>
-    <img align="center" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" height="30"/>
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="40" height="30"/>
-  </div>
-  
-  <br>
 
 <div align="center">
 
-  <img align="center" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
-  
+[![API CEP](https://img.shields.io/badge/API%20CEP-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Marcusreis05/Desafio-2-Api-DNC)
+
+[![Tasks](https://img.shields.io/badge/TASKS-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Marcusreis05/dnc-react-desafio3)
+
+[![API DNC](https://img.shields.io/badge/API%20DNC-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Marcusreis05/Desafio-5/tree/master)
+
+[![Landing Page](https://img.shields.io/badge/LANDING%20PAGE-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Marcusreis05/Projeto-DNC-Desafio-1)
+
+[![CCXP](https://img.shields.io/badge/CCXP-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Marcusreis05/CCXP-DNC)
+
+</div>
+
+---
+
+## `> GitHub`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Marcusreis05&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusreis05&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusreis05&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=666666" />
+
+</div>
+
+---
+
+## `> Experiência & interesses`
+
+```text
+TECH
+├── Front-end
+│   ├── React
+│   ├── Next.js
+│   ├── JavaScript
+│   ├── TypeScript
+│   └── Sass
+│
+├── Back-end
+│   ├── Node.js
+│   ├── Express
+│   └── APIs REST
+│
+└── Database
+    └── MongoDB
+
+INTERESTS
+├── Tecnologia
+├── Games
+├── Mangás
+├── Livros
+└── Futebol
+```
+
+---
+
+## `> Um pouco mais sobre mim`
+
+Tenho 19 anos e moro no Brasil.
+
+Fora da programação, gosto de videogames, mangás, livros e futebol.
+
+Acredito que explorar diferentes áreas e interesses também ajuda a desenvolver
+uma visão mais criativa para resolver problemas e construir soluções.
+
+---
+
+## `> Contato`
+
+<div align="center">
+
+<a href="mailto:SEU_EMAIL_AQUI">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/marcus-reis-2b01bb275/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://steamcommunity.com/id/reissx/">
+<img src="https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+────────────────────────────────────────────────────────
+                 "Keep building."
+────────────────────────────────────────────────────────
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+
 </div>
